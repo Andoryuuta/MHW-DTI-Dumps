@@ -1,4 +1,4 @@
-// cResource subclass information. [07-01-2021 01-02-31]
+// cResource subclass information. [23-03-2021 20-29-49]
 // Image Base: 0X140000000
 
 Class [rAI], file extension: ais
